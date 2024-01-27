@@ -1,0 +1,66 @@
+
+.buttons{
+    display: flex;
+    margin: 70px 0px 0px 50px;
+  }
+  
+  .btn{
+      background-color: rgb(118, 159, 235);
+      width: 300px;
+      font-size: 25px;
+      color: #fff;
+      border-radius: 10px;
+      margin: 10px;
+  }
+  .btn:hover{
+      color: #fff;
+      background-color: rgb(100, 95, 252);
+  }
+  .btn-setting{
+      height: 50px;
+      width: 50px;
+      border: none;
+      border-radius: 5px;
+      margin: 10px;
+  }
+  .btn-setting:hover{
+      background-color: rgb(222, 219, 219);
+  }
+  .circle-btn:hover{
+    background-color:rgb(228, 236, 220) ;
+    border-radius: 100px;
+  }
+  .setting-modal{
+  background-color: rgb(236, 244, 244);
+  height: 350px;
+  width: 600px;
+  border-radius: 5px;
+  margin: 200px 0px 0px 500px;
+  text-align: center;
+  }
+  .close-btn{
+      border: none;
+      background-color: #ebe4e4;
+      float: right;
+      margin: 10px;
+  }
+  .lab-inp{
+      font-size: 20px;
+      text-align: center;
+  }
+  .confirm-1{
+     background-color: rgb(187, 228, 146);
+     font-size: 25px;
+     border: none;
+     width: 150px;
+     height: 60px;
+     border-radius: 10px;
+  }
+  /* .cnf{
+     text-align: center;
+
+  }  */
+  .blur-background{
+   filter: blur(1.5px);
+  }
+  

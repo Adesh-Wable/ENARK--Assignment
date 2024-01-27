@@ -1,0 +1,41 @@
+.btn1{
+    background-color: rgb(118, 159, 235);
+    width: 350px;
+    font-size: 25px;
+    color: #fff;
+    border-radius: 10px;
+    margin: 10px 0px 0px 0px;
+    border: 1px rgb(118, 159, 235);
+    height: 50px;
+   
+}
+.btn1:hover {
+    color: #fff;
+    background-color: rgb(100, 95, 252);
+}
+.input {
+    margin: 100px 0px 0px 50px;
+    padding: 10px;
+}
+.text{
+    font-size: 25px;
+}
+.timer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(178, 221, 134);
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    padding: 10px;
+}
+.circle-btn{
+    border: none;
+    background-color: rgb(178, 221, 134);
+}
+.circle-btn:hover{
+    background-color:rgb(193, 205, 182) ;
+    border-radius: 100px;
+  }
+   

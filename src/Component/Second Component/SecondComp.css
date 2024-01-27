@@ -1,0 +1,86 @@
+.btn-2 {
+    background-color: rgb(118, 159, 235);
+    width: 400px;
+    font-size: 25px;
+    color: #fff;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 50px;
+    border: none;
+    height: 55px;
+}
+
+.btn-2:hover {
+    color: #fff;
+    background-color: rgb(100, 95, 252);
+}
+
+.btn-setting-2 {
+    height: 55px;
+    width: 55px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.btn-setting-2:hover {
+    background-color: rgb(222, 219, 219);
+}
+
+.buttons-2 {
+    display: flex;
+    padding: 10px;
+}
+
+.input {
+    margin: 40px 0px 0px 20px;
+}
+
+.msg {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(178, 221, 134);
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    padding: 10px;
+}
+
+.lab-inp {
+    padding: 40px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.close-btn {
+    border: none;
+    background-color: #ebe4e4;
+    float: right;
+    margin: 20px;
+}
+
+.setting-modal {
+    background-color: rgb(236, 244, 244);
+    height: 200px;
+    width: 600px;
+    border-radius: 5px;
+    margin: 50px 0px 0px 500px;
+    position: absolute;
+   
+}
+
+.confirm-1 {
+    background-color: rgb(187, 228, 146);
+    font-size: 25px;
+    border: none;
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.cnf {
+    text-align: center;
+
+}

@@ -1,0 +1,48 @@
+.list ul li{
+font-size: 25px;
+list-style-type: none;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+
+.btns{
+ float: right;
+}
+.f-data{
+  font-size: 50px;
+  font-weight: bold;
+  margin: 30px 0px 0px 30px;
+}
+
+.btn-pre,
+.btn-nxt {
+  background-color: gray;
+  color: #000000;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  margin: 10px;
+  width: 150px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.btn-nxt:disabled,
+.btn-pre:disabled {
+  background-color: lightgray;
+  cursor: not-allowed;
+}
+.btn-nxt.active,
+.btn-pre.active {
+  background-color: rgb(134, 224, 165);
+}
+.btn-pre:hover,
+.btn-nxt:hover{
+  background-color: rgb(68, 217, 135);
+}
